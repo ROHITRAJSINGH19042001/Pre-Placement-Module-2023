@@ -3,7 +3,7 @@
 - University Roll No.: 1900290400105
 - Branch: Mechanical Engineering
 - Section: C
-- Preferred Programming Language: Python
+- Preferred Programming Language: Python, Java
 
 ## Coding Profiles
 - LeetCode: [ROHIT_RAJ_SINGH] [(https://leetcode.com/rohitraj192001/)]
